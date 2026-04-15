@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# Mobile App
+mobile_app/.expo/
+mobile_app/node_modules/
+mobile_app/ios/
+mobile_app/android/
+
+# Misc
+.idea/
+.vscode/
